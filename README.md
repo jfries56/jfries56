@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin (@jfries56)
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on learning!
 - 📫 How to reach me justinjfriesen@gmail.com
 - 😄 Pronouns: he/him
